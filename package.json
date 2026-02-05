@@ -1,0 +1,21 @@
+{
+  "name": "uranbuteel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "@supabase/supabase-js": "latest",
+    "@supabase/auth-helpers-react": "latest",
+    "@supabase/auth-helpers-nextjs": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest"
+  }
+}
